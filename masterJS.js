@@ -1,10 +1,8 @@
 var someName = "utkarsh";
 
 
-console.log(global.someName);
-
 function sayMyName() {
-  console.log(this);
+  console.log("my name is "+someName);
 }
 
-window.sayMyName();
+sayMyName();
