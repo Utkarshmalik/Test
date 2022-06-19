@@ -6,6 +6,8 @@ function sayMyName() {
   console.log("My age is "+age);
 }
 
+console.log("another hello from rahul");
+
 sayMyName();
 
 console.log("hello once again");
