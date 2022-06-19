@@ -7,3 +7,5 @@ function sayMyName() {
 }
 
 sayMyName();
+
+console.log("hello once again");
